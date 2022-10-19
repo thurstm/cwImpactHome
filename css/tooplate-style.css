@@ -15,8 +15,8 @@ body {
     min-height: 100vh;
     height: 100%;
     position: relative;
-    background: rgb(101, 101, 101);
-    opacity: 0.7;
+    background: maroon(#800000);
+    opacity: 1;
 }
 
 #preload-01 { background: url(../img/impact2.jpg) no-repeat -9999px -9999px; }
